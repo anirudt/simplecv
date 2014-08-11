@@ -58,14 +58,14 @@ def main():
 		minterm.append(bin(minterms[i], bit))
 		
 		i = i + 1
-#	print(minterm)
+	print(minterm)
 	i = 0
-	while(i<=dontcare_number):
+	while(i<dontcare_number):
 		k = input()
 		dontcare.append(bin(k,bit))
 		i=i+1
 	i = 1
-#	print(dontcare) 	
+	print(dontcare) 	
     
     
 
