@@ -30,5 +30,5 @@ i3 = cam.getImage()
 time.sleep(10)
 
 print "Showing motion shot"
-i4 = (i1/4 + i2/2 + i3/4)
+i4 = (i1/3 + i2/3 + i3/4)
 i4.save("motion.png")
