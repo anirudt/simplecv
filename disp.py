@@ -1,3 +1,8 @@
+'''
+A starter to the display package
+
+'''
+
 from SimpleCV import *
 
 def main():

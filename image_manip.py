@@ -1,3 +1,13 @@
+'''
+
+This script is just to study the 
+basics of colour manipulations.
+
+Pretty self explanatory.
+
+'''
+
+
 from SimpleCV import *
 
 def main():
