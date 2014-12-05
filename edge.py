@@ -1,3 +1,10 @@
+'''
+This code script explains the Canny Edge Detection 
+implementation. Also, a circle detection is attempted
+
+'''
+
+
 from SimpleCV import *
 
 cam = Camera()

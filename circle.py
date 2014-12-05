@@ -1,3 +1,9 @@
+'''
+This is used to implement circle detection. 
+
+'''
+
+
 from SimpleCV import *
 
 cam = Camera()

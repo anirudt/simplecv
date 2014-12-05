@@ -1,3 +1,12 @@
+'''
+This algorithm will test the motion of a person on the image.
+Sufficient image arithmetic can be done, to diff the image, 
+to isolate the moving portion, and this mean of RGB to trigger an alarm.
+
+
+
+'''
+
 from SimpleCV import *
 cam = Camera()
 
